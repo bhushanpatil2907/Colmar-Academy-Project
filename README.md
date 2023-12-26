@@ -1,4 +1,4 @@
-<h2><a herf="https://bhushanpatil2907.github.io/Colmar-Academy-Project/" target="_blank">Colmar Academy</a></h2>
+<h1><a href="https://bhushanpatil2907.github.io/Colmar-Academy-Project/" target="_blank">Colmar Academy</a></h1>
 <p>This project is part of the</p>
 <h2>Build a Website with HTML, CSS and Github Pages</h2>
 <p>Skill Path by CodeCademy<br>
